@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Arabic fonts are looked up by name at runtime (Resources.getIdentifier), so the
+  resource shrinker cannot see them as used. Keep them once the user supplies the
+  files; these patterns are harmless while the files are still absent.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="UnusedResources"
+    tools:keep="@font/lpmq_isep_misbah,@font/al_qalam_quran_majeed,@font/noorehira" />

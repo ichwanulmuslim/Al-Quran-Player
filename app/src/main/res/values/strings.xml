@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran Player</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_open">Buka pengaturan</string>
+    <string name="settings_back">Kembali</string>
+
+    <string name="settings_preview_title">Pratinjau</string>
+    <string name="settings_preview_arabic">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="settings_preview_translation">Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.</string>
+
+    <string name="settings_section_font">Font Teks Arab</string>
+    <string name="font_system">Bawaan Sistem</string>
+    <string name="font_lpmq">LPMQ Isep Misbah</string>
+    <string name="font_majeed">Al Qalam Quran Majeed</string>
+    <string name="font_noorehira">Noorehira</string>
+    <string name="settings_font_system_status">Font bawaan perangkat</string>
+    <string name="settings_font_ready">Siap digunakan</string>
+    <string name="settings_font_missing">Menunggu file font: res/font/%1$s.ttf (atau .otf)</string>
+    <string name="settings_font_fallback">Font pilihan belum tersedia, teks Arab sementara memakai font sistem.</string>
+
+    <string name="settings_section_arabic_size">Ukuran Teks Arab</string>
+    <string name="settings_section_translation_size">Ukuran Teks Terjemah</string>
+    <string name="settings_size_value">%1$d sp</string>
+
+    <string name="settings_section_palette">Warna Tema</string>
+    <string name="palette_hijau">Hijau Zamrud</string>
+    <string name="palette_sepia">Sepia</string>
+    <string name="palette_biru">Biru</string>
+    <string name="palette_ungu">Ungu</string>
+    <string name="palette_dinamis">Dinamis</string>
+    <string name="settings_palette_dinamis_note">Mengikuti wallpaper (Android 12+)</string>
+    <string name="settings_palette_dinamis_unsupported">Hanya Android 12+</string>
+
+    <string name="settings_section_theme_mode">Mode Tema</string>
+    <string name="theme_mode_system">Sistem</string>
+    <string name="theme_mode_light">Terang</string>
+    <string name="theme_mode_dark">Gelap</string>
+</resources>
